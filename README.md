@@ -4,7 +4,8 @@ A Python tool to analyze and visualize WhatsApp chat data.
 
 ## Project Demonstration
 
-[Download the video](idea/gif_App Preview.mp4)
+[Download the video]("C:\Users\Arbaz Raza Khan\PycharmProjects\whatsappchatanalyzer\App Preview.mp4")
+
 
 ## Table of Contents
 
