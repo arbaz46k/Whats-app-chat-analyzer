@@ -101,30 +101,29 @@ Here are some examples of the insights you can obtain using WhatsApp Chat Analyz
 
 ### Word Cloud
 
-![Word Cloud](readme_resources/word_cloud.png)
+![words](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/974c7a62-e699-4811-bde3-875d6ca19611)
 
-### Most Active Day
+### Most Active Day and Active Month
 
-![Activity Timeline](readme_resources/most_active_day.png)
-
-### Most Active Month
-
-![Activity Timeline](readme_resources/most_active_month.png)
+![Actively](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/1c63fa7c-3a6e-40a4-97a2-a3b64973ebac)
+![Actively2](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/fe0c5e07-7754-4b34-9cf0-ac099943c8f1)
 
 ### Most Common Words
 
-![Most Common Words](readme_resources/most_common_word.png)
+![Most common words](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/90801867-9742-4152-aea4-4958df8e4ad8)
 
 ### Most Used Emojis
 
-![Most Common Words](readme_resources/most_used_emojis.png)
+![Emoji's](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/fb40e939-f1fb-43ae-bcdd-dee6cc172f61)
 
 ### Activity Timeline
 
-![Activity Timeline](readme_resources/timeline_1.png)
-![Activity Timeline](readme_resources/timeline_2.png)
+![Actively](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/cfd4a69b-8175-4d1d-9fd7-9b538e16d233)
+![Actively2](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/2384ff5e-c428-4dab-9ac4-914f06398911)
+
 
 ## Contact
+
 
 For any questions or inquiries, feel free to reach out to me at:
 
