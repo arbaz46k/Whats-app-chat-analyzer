@@ -99,24 +99,18 @@ Please note that these steps are a general guideline and may vary slightly depen
 
 Here are some examples of the insights you can obtain using WhatsApp Chat Analyzer:
 
-### Word Cloud
 
 ![words](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/974c7a62-e699-4811-bde3-875d6ca19611)
 
-### Most Active Day and Active Month
 
 ![Activity day month](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/059ad8dd-8de9-4830-a372-fba9c83624a3)
-
-### Most Common Words
 
 
 ![Most common words](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/90801867-9742-4152-aea4-4958df8e4ad8)
 
-### Most Used Emojis
 
 ![Emoji's](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/fb40e939-f1fb-43ae-bcdd-dee6cc172f61)
 
-### Activity Timeline
 
 ![Actively](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/cfd4a69b-8175-4d1d-9fd7-9b538e16d233)
 ![Actively2](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/2384ff5e-c428-4dab-9ac4-914f06398911)
