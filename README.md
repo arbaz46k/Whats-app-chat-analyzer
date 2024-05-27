@@ -105,10 +105,10 @@ Here are some examples of the insights you can obtain using WhatsApp Chat Analyz
 
 ### Most Active Day and Active Month
 
-![Actively](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/1c63fa7c-3a6e-40a4-97a2-a3b64973ebac)
-![Actively2](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/fe0c5e07-7754-4b34-9cf0-ac099943c8f1)
+![Activity day month](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/059ad8dd-8de9-4830-a372-fba9c83624a3)
 
 ### Most Common Words
+
 
 ![Most common words](https://github.com/arbaz46k/Whats-app-chat-analyzer/assets/53043508/90801867-9742-4152-aea4-4958df8e4ad8)
 
